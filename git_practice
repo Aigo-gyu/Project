@@ -1,0 +1,7 @@
+cd/Users/ichangyu/Documents/GitHub
+git init
+Initialized empty Git repository in /Users/ichangyu/Documents/GitHub
+# git remote add git_test https://github.com/Aigo-gyu/Project/blob/4712b1605ce6a19380831a910df1d6c70392baac/README.md
+# git push -u
+# git remote --verbose
+# git add git_test.ipynb
